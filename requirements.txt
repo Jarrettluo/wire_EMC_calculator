@@ -1,0 +1,11 @@
+numpy==1.19.0
+pandas==1.1.5
+pyparsing==2.4.7
+pypiwin32==223
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+PyRTF3==0.47.5
+python-dateutil==2.8.1
+pytz==2020.4
+pywin32==300
+six==1.15.0
