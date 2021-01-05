@@ -8,8 +8,8 @@
 - 选择结果保存的路径后，计算结果可以保存位特定文件。
 
 #### 软件界面展示
-![参数输入界面 ](./screeshot/window1.png)
-![计算结果 ](./screeshot/window2.png)
+![参数输入界面 ](https://github.com/Jarrettluo/wire_EMC_calculator/blob/master/screeshot/window1.png)
+![计算结果 ](https://github.com/Jarrettluo/wire_EMC_calculator/blob/master/screeshot/window2.png)
 
 #### 软件使用方法 
 1 新建虚拟环境，安装依赖库
