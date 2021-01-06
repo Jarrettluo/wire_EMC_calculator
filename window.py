@@ -78,7 +78,6 @@ class test1(QMainWindow):
             if self.parameters and update_paras:
                 for key in self.paras_map:
                     string = self.paras_map[key] + " = " + self.parameters[key]
-                    print(string)
                     file_write_obj.writelines(string)
                     file_write_obj.write('\n')
             file_write_obj.close()
